@@ -1,4 +1,4 @@
-![v](https://komarev.com/ghpvc/?username=mariusgreen&color=FCB6FB&style=flat&label=Profile+Views)
+<!--![v](https://komarev.com/ghpvc/?username=mariusgreen&color=FCB6FB&style=flat&label=Profile+Views)-->
 
 main things i am focusing on right now\
 <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank">![Ruby](https://img.shields.io/badge/-Ruby-FCB6FB?style=flat&logo=ruby&logoColor=CC342D)</a>&nbsp;
